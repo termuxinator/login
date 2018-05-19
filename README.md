@@ -29,3 +29,4 @@ termux autorun login
 - LICENSE.md (git) license page
 - README.md (git) readme page
 - .autorun.py (python) main source file
+- .bash_profile (bash) startup script
